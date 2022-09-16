@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_"},{"v":2,"key":{"ProcessedAt":1},"name":"ProcessedAt_1","expireAfterSeconds":3600}],"uuid":"103b6c95e206452a9e983009d4efefa3"}
